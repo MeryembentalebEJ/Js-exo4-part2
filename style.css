@@ -1,0 +1,15 @@
+body{
+    margin: 0; 
+    padding: 0;
+    background-image: url("/home/bentaleb/Desktop/exercice/JavaScript/part 2/exo4-js/101518970-rendition-largest.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+form{
+    margin-top: 20%;
+}
+input{
+    width: 20%;
+}
